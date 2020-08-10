@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "useGitVersion": true,
+  "gitVersionPrefix": "v"
+}
