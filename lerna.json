@@ -2,6 +2,13 @@
   "packages": [
     "packages/*"
   ],
+  "command": {
+    "publish": {
+      "npmClient": "npm",
+      "verifyAccess": false,
+      "ignoreChanges": []
+    }
+  },
   "version": "independent",
   "useGitVersion": true,
   "gitVersionPrefix": "v"
